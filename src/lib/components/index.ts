@@ -1,0 +1,8 @@
+export { default as Header } from './Header.svelte'
+export { default as HeroSection } from './HeroSection.svelte'
+export { default as PartnersIntegrationsSection } from './PartnersIntegrationsSection.svelte'
+export { default as KeyBenefitsSection } from './KeyBenefitsSection.svelte'
+export { default as ProcessCaptureFeatureSection } from './ProcessCaptureFeatureSection.svelte'
+export { default as AIGeneratedGuidesFeatureSection } from './AIGeneratedGuidesFeatureSection.svelte'
+export { default as ComparisonSection } from './ComparisonSection.svelte'
+export { default as Footer } from './Footer.svelte'
